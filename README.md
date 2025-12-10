@@ -32,14 +32,7 @@ Sou uma profissional proativa, curiosa e dedicada, sempre em busca de aprender e
 
 ## 📫 Me encontre por aqui
 
-- 📧 Email: [nayane_rms@hotmail.com](mailto:nayane_rms@hotmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/nayanerodriguesoi](https://linkedin.com/in/nayanerodriguesoi)  
-- 🐱 GitHub: [github.com/nayaneoi ](https://github.com/nayaneoi )
-
-[![Email]([URL_da_imagem](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white%22%3E%3C/a%3E%3Ca))](mailto:nayane_rms@hotmail.com)
-[![LinkedIn]([URL_da_imagem](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white%22%3E%3C/a%3E%3Ca))](link_para_mais_informações)
-[![GitHub]([URL_da_imagem](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white%22%3E%3C/a%3E))](github.com/nayaneoi)
-
+<a href="mailto:nayane_rms@hotmail.com"><img height="32" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://wa.me/5511959791124"><img height="32" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a><a href="https://linkedin.com/in/nayanerodriguesoi"><img height="32" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://github.com/nayaneoi"><img height="32" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
 ---
 
