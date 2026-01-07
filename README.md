@@ -1,13 +1,11 @@
 # Olá, eu sou a Nayane 👋
 
-## 🚀 Sobre mim
-
 Estou em transição para a área de Tecnologia, unindo a experiência em Administração e área fiscal com uma verdadeira paixão por inovação digital. Atualmente, estou cursando MBA em Gestão de Projetos e um Bootcamp Full Stack JavaScript, onde tenho me aprofundado em programação, desenvolvimento de APIs e metodologias ágeis.
 
 Sou uma profissional proativa, curiosa e dedicada, sempre em busca de aprender e aprimorar minhas habilidades para enfrentar desafios e entregar resultados de impacto.
 
 <p align="center">
-  <img src="20180307183432.jpg" width="500"/>
+  <img src="20180307183432.jpg" width="600"/>
 </p>
 
 
