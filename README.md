@@ -7,12 +7,8 @@ Estou em transição para a área de Tecnologia, unindo a experiência em Admini
 Sou uma profissional proativa, curiosa e dedicada, sempre em busca de aprender e aprimorar minhas habilidades para enfrentar desafios e entregar resultados de impacto.
 
 <p align="center">
-  <img src="![alt text](20180307183432.jpg)" width="250"/>
+  <img src="20180307183432.jpg" width="800"/>
 </p>
-
-
-
-
 
 
 ## 💻 Tecnologias que domino
