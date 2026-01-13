@@ -1,8 +1,14 @@
 # Olá, eu sou a Nayane 👋
 
-Estou em transição para a área de Tecnologia, unindo a experiência em Administração e área fiscal com uma verdadeira paixão por inovação digital. Atualmente, estou cursando MBA em Gestão de Projetos e um Bootcamp Full Stack JavaScript, onde tenho me aprofundado em programação, desenvolvimento de APIs e metodologias ágeis.
+Desenvolvedora Full Stack JavaScript em formação, com sólida experiência corporativa e forte visão de negócio.
 
-Sou uma profissional proativa, curiosa e dedicada, sempre em busca de aprender e aprimorar minhas habilidades para enfrentar desafios e entregar resultados de impacto.
+Atuei por mais de 6 anos na área tributária, participando de projetos sistêmicos e atuando como Key User em migração SAP, o que despertou meu interesse por tecnologia e desenvolvimento de sistemas.
+
+Atualmente curso MBA em Gestão de Projetos e um Bootcamp Full Stack JavaScript, onde desenvolvo aplicações backend utilizando JavaScript, TypeScript, Node.js, NestJS, APIs REST, CRUD e arquitetura MVC, atuando em squads ágeis.
+
+Busco oportunidades como Desenvolvedora Web / Full Stack JavaScript Júnior em consultorias de TI ou empresas de grande porte.
+
+
 
 <p align="center">
   <img src="20180307183432.jpg" width="600"/>
